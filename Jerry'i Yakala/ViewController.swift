@@ -144,7 +144,7 @@ class ViewController: UIViewController {
         alert.addAction(replayButton)
        
         self.present(alert, animated: true, completion: nil)
-        print("asda")
+        
     
     }
         
